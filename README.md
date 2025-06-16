@@ -1,6 +1,6 @@
 # java2DB
 
-The JAVA Library provides an Abstract layer to Access various SQL Databases. Supported are MariaDB, MySQL, Postgres and SQLite.
+The JAVA Library provides an layer to Access various SQL Databases. Supported are MariaDB, MySQL, Postgres and SQLite.
 
 ## Features
 - Connecting to various databases
